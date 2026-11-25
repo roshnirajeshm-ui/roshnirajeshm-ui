@@ -1,11 +1,5 @@
 # Hi, I'm Roshni
 
-<img src="assets/roshni.jpg" alt="Illustration of Roshni: creative, storyteller, designer, journalist, analytical" width="260" align="right">
-
-**Creative · Storyteller · Designer · Journalist · Analytical**
-
-I'm a marketer who thinks in stories and checks them against the numbers. My background mixes journalism, design and psychology, and I'm now adding data analytics to the toolkit.
-
 Marketing professional with 5 years of experience in social media, content and campaign development, now building hands-on data analytics skills.
 
 ## What I'm working on
