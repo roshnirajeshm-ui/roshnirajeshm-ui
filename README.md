@@ -8,13 +8,17 @@ Marketing professional with 5 years of experience in social media, content and c
 
 ## Skills
 - **Marketing:** Campaign planning, consumer research, social media, Google Analytics & Ads
-- **Data:** Excel, [SQL], [Python (pandas)], [Tableau]
+- **Data:** Excel
+- **Currently learning:** SQL, Python (pandas), Tableau
 - **Languages:** English, Hindi, Telugu
 
+## Certifications
+- Meta Blueprint Certified Creative Strategy Professional (300-101)
+
 ## Projects
-- [Marketing Channel Performance Dashboard](link) - Excel
-- [Campaign Analysis with SQL](link) - SQL
-- [Budget Allocation Capstone](link) - Excel / SQL / Python
+- Marketing Channel Performance Dashboard – Excel *(coming soon)*
+- Campaign Analysis with SQL – SQL *(coming soon)*
+- Budget Allocation Capstone – Excel / SQL / Python *(coming soon)*
 
 ## Connect
-LinkedIn: https://www.linkedin.com/in/roshnirajeshm9|  Email: roshnirajesh.m@gmail.com
+LinkedIn: https://www.linkedin.com/in/roshnirajeshm9 | Email: roshnirajesh.m@gmail.com
