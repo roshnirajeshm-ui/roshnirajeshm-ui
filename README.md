@@ -13,7 +13,7 @@ Marketing professional with 5 years of experience in social media, content and c
 - **Languages:** English, Hindi, Telugu
 
 ## Certifications
-- Meta Blueprint Certified Creative Strategy Professional (300-101)
+- [Meta Certified Creative Strategy Professional](https://www.credly.com/badges/b986fa0b-c441-4961-bf2f-f08c514834fb) – verified on Credly
 
 ## Projects
 - Marketing Channel Performance Dashboard – Excel *(coming soon)*
